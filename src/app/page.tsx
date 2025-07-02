@@ -41,6 +41,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <img src="/gift.jpg" alt="gift"></img>
 
       {/* Serviços Section */}
       <section id="servicos" className="py-20 bg-white">
